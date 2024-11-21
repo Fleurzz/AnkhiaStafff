@@ -1,0 +1,4 @@
+name: AnkhiaStaff
+version: '1.2.0'
+main: fr.nemesis07.ankhiaStaff.AnkhiaStaff
+api-version: '1.21'
