@@ -1,5 +1,0 @@
-permissions:
-  staffmodex.command.report: Grants permission to use the report command.
-  staffmodex.command.warning: Grants permission to issue warnings to players.
-  staffmodex.bypass.cooldown: Allows bypassing cooldown restrictions for commands.
-  staffmodex.command.staffmode: Grants permission to access Staff Mode features.
