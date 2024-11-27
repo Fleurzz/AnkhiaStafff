@@ -1,4 +1,11 @@
 name: AnkhiaStaff
-version: '1.2.0'
-main: fr.nemesis07.ankhiaStaff.AnkhiaStaff
-api-version: '1.21'
+description: AnkhiaStaffMod
+author: Ankhia
+main: fr.nemesis07.ankhiastaff.AnkhiaStaff
+version: 1.2.0
+url: https://github.com/arkflame/Spigot-Boilerplate
+api-version: 1.8
+
+# This sets PlaceholderAPI as an optional dependency for your plugin.
+softdepend: [PlaceholderAPI]
+
